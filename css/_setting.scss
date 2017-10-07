@@ -1,0 +1,42 @@
+html,body{
+	margin:0;
+	padding:0;
+	width:1900px;	
+	overflow-x:hidden;
+}
+#linial-gradient{
+width: 1900px;
+height: 3px;
+background-image: linear-gradient(to left, #35eef6 0%, #70269f 100%);
+background-color: #ffffff;
+}
+#menu{
+	width: 1900px;
+    height: 100px; 
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+    background-color: #ffffff;
+}
+#header{
+	width: 1900px;
+	height: 300px;
+	background-color: #f7f9f9;
+	background-image: linear-gradient(to left, #35eef6 0%, #7c28b1 100%);
+} 
+#linial-gradient2{
+margin-top:70px;
+width: 1900px;
+height: 3px;
+background-image: linear-gradient(to left, #35eef6 0%, #70269f 100%);
+background-color: #ffffff;
+}
+#footer{
+width: 1900px;
+height: 227px;
+background-color: #ecf0f1;
+}
+#line{
+	width: 1900px;
+height: 2px;
+background-color: #bdc3c7;
+opacity: 0.7;
+}
